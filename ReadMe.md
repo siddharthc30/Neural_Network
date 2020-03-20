@@ -1,1 +1,1 @@
-Implementation of a simple standard neuralnr=etwork using numpy.
+Implementation of a simple standard neural network using numpy.
